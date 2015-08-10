@@ -1,4 +1,4 @@
-## Diary ##* 
+## Diary ##*
 * daily report  or todos
 * codes will not always here but fun
 
